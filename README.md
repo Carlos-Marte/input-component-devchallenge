@@ -62,7 +62,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Carlos-Marte/button-component-devchallenge.git
+$ git clone https://github.com/Carlos-Marte/input-component-devchallenge.git
 
 # Install dependencies
 $ npm install
